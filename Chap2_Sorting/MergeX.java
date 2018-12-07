@@ -57,6 +57,7 @@ public class MergeX {
 			if(less(a[i],a[i-1]))return false;
 		}
 		return true;
+		
 	}
 
 	private static void show(Comparable[] a) {
